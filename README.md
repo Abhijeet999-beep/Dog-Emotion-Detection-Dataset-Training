@@ -18,7 +18,7 @@ Dogs communicate their emotions through subtle facial cues and body language. Ho
 | Architecture        | YOLOv11 (Ultralytics)          |
 | Dataset Tool        | Roboflow                       |
 | Classes             | `Happy`, `Alert`, `Frown`, `Relax`, `Angry` |
-| Input Size          | 640x640                        |
+| Input Size          | 320x320                        |
 | Dataset Split       | `70%` train, `20%` valid, `10%` test |
 | Annotation Format   | YOLOv5-compatible (`.txt`)     |
 
