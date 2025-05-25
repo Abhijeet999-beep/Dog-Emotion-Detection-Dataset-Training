@@ -22,6 +22,8 @@ Dogs communicate their emotions through subtle facial cues and body language. Ho
 | Dataset Split       | `70%` train, `20%` valid, `10%` test |
 | Annotation Format   | YOLOv5-compatible (`.txt`)     |
 
+dataset link:
+https://drive.google.com/file/d/1TI3cvUWpjHNjQxfTAmTGQ8moxPrQFYPW/view?usp=sharing 
 ---
 
 
