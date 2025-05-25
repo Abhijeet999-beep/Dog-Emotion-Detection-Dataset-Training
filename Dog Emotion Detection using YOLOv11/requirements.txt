@@ -1,0 +1,6 @@
+ultralytics>=8.0.20        # YOLOv11 by Ultralytics
+opencv-python              # Image/video processing
+matplotlib                 # Plotting results and evaluation
+numpy                      # Numerical operations
+PyYAML                     # Reading data.yaml
+torch>=2.0                 # PyTorch backend (required by YOLO)
