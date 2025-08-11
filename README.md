@@ -7,20 +7,6 @@
 
 A comprehensive machine learning project for detecting and classifying dog emotions using state-of-the-art YOLOv11 architecture. This project provides a complete pipeline from dataset preparation to model training and evaluation.
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Dataset](#dataset)
-- [Model Architecture](#model-architecture)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## 🎯 Overview
 
 Understanding canine emotions through facial expressions and body language is crucial for pet owners, trainers, and veterinary professionals. This project addresses this challenge by developing an AI-driven system that automatically detects and classifies five distinct dog emotional states:
