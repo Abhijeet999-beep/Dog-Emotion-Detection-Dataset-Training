@@ -20,7 +20,7 @@ Understanding canine emotions through facial expressions and body language is cr
 ## ✨ Features
 
 - **Advanced Architecture**: Built on YOLOv11 (Ultralytics) for real-time object detection
-- **Comprehensive Dataset**: 6,335 carefully annotated images with 5 emotion classes
+- **Comprehensive Dataset**: 30,000+ carefully annotated images with 5 emotion classes
 - **Data Augmentation**: Robust preprocessing with rotation, cropping, brightness adjustment, and noise injection
 - **Professional Pipeline**: Complete workflow from data preparation to model evaluation
 - **Easy Deployment**: Ready-to-use notebooks for training, testing, and inference
