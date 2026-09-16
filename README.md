@@ -29,7 +29,7 @@ Understanding canine emotions through facial expressions and body language is cr
 ## 📊 Dataset
 
 ### Dataset Statistics
-- **Total Images**: 6,335
+- **Total Images**: 30,000+
 - **Classes**: 5 dog emotions
 - **Format**: YOLOv11 compatible annotations
 - **Input Size**: 320x320 pixels
